@@ -21,7 +21,6 @@ Este microservicio tendrá que interaccionar con el microservicio de producto pa
 - Spring Boot 3.1.4
 - Spring Boot Web Starter
 - Spring Boot Test Starter
-- Mockito Core 5.5.0
 
 ## Instalación
 
